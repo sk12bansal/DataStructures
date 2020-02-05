@@ -1,9 +1,6 @@
 package tree;
 
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 class Node {
     int data;
@@ -108,6 +105,7 @@ public class RightView {
         if(root ==null)
             return;
         Queue<Node> q = new LinkedList<>();
+        Map<String,Integer> mt = new TreeMap<>();
         q.add(root);
         System.out.println();
         System.out.println("===Right View of Binary Tree===");

@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8236c13-8195-4f7a-b037-78aefb14c43f" name="Default Changelist" comment="" />
+    <list default="true" id="d8236c13-8195-4f7a-b037-78aefb14c43f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BatchProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapGetOrDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/Concurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/DeadLockFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/MultiTasking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/MultiTasking1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/PrintOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/SimpleThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/StaticSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/SynchronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/SynchronizedBlockAnnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/ThreadAlternateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/ThreadProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadExamples/ThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/AddTwoFractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/BestTimeToBuyAndSellStockIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/BiggestAndSecondBiggest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/CustomParseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/FindMinimumInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/FindMinimumInRotatedSortedArrayIIWithDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/FindSubarrayWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/FractionToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/MedianofTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/MergeTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/NonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/NonRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/NumbersContaining12And3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/RepeatedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/SearchIn2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/Segregate0sAnd1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/Segregate0sAnd1sPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/SmallestAndSecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/SortCharactersByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/impQuestions/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/tree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/tree/RightView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/tree/RightView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/RightView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/RightView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +73,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UsNLatuYcL4pGei3ScT2yylkbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,9 +91,10 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -37,6 +102,9 @@
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="DesignPatterns.ObserverPattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="DesignPatterns.FacadePattern.Menus.NonVegMenu" />
@@ -46,13 +114,13 @@
       <recent name="DesignPatterns.AdapterPattern.Pen" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileConcept">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.FacadePattern.Client" />
+  <component name="RunManager" selected="Application.TopKFrequentWords">
+    <configuration name="BestTimeToBuyAndSellStockIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impQuestions.BestTimeToBuyAndSellStockIII" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.FacadePattern.*" />
+          <option name="PATTERN" value="impQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,19 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileConcept" />
-      <module name="JavaPrograms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GraphDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.GraphDemo" />
+    <configuration name="CustomParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impQuestions.CustomParseInt" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="impQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,27 +141,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RatInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RatInMaze" />
+    <configuration name="MergeTwoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impQuestions.MergeTwoStrings" />
       <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="impQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegmentTree" />
+    <configuration name="SortCharactersByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impQuestions.SortCharactersByFrequency" />
       <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="impQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impQuestions.TopKFrequentWords" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="impQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileConcept" />
-        <item itemvalue="Application.RatInMaze" />
-        <item itemvalue="Application.GraphDemo" />
-        <item itemvalue="Application.SegmentTree" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.TopKFrequentWords" />
+        <item itemvalue="Application.SortCharactersByFrequency" />
+        <item itemvalue="Application.MergeTwoStrings" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStockIII" />
+        <item itemvalue="Application.CustomParseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -163,61 +249,83 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1577524387450" />
-    <state width="1398" height="256" key="GridCell.Tab.0.bottom" timestamp="1578054356812">
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1580713772833">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578054356812" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1577388561154" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1576585762173" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1576437919425" />
-    <state width="1398" height="256" key="GridCell.Tab.0.center" timestamp="1578054356811">
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1580713772833" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1580875964431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="256" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578054356811" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1577388561153" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1576585762172" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1576437919425" />
-    <state width="1398" height="256" key="GridCell.Tab.0.left" timestamp="1578054356810">
+    <state width="1398" height="362" key="GridCell.Tab.0.bottom/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1580812573876" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580875964431" />
+    <state width="1398" height="531" key="GridCell.Tab.0.bottom/0.23.1440.804/-1600.23.1600.877@0.23.1440.804" timestamp="1580812498133" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1580701226381" />
+    <state width="1398" height="327" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580170681428" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1578978242844" />
+    <state width="1398" height="274" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1580011561620" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1580875964428">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="256" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578054356810" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1577388561152" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1576585762172" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1576437919424" />
-    <state width="1398" height="256" key="GridCell.Tab.0.right" timestamp="1578054356811">
+    <state width="1398" height="362" key="GridCell.Tab.0.center/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1580812573874" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580875964428" />
+    <state width="1398" height="531" key="GridCell.Tab.0.center/0.23.1440.804/-1600.23.1600.877@0.23.1440.804" timestamp="1580812498131" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1580701226380" />
+    <state width="1398" height="327" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1580170681427" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1578978242843" />
+    <state width="1398" height="274" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1580011561619" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1580875964427">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="256" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578054356811" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1577388561153" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1576585762173" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1576437919425" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1577388561223">
+    <state width="1398" height="362" key="GridCell.Tab.0.left/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1580812573873" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580875964427" />
+    <state width="1398" height="531" key="GridCell.Tab.0.left/0.23.1440.804/-1600.23.1600.877@0.23.1440.804" timestamp="1580812498130" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1580701226379" />
+    <state width="1398" height="327" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1580170681426" />
+    <state width="1398" height="327" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1580062036000" />
+    <state width="1398" height="274" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1580011561619" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1580875964430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577388561223" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1577388561222">
+    <state width="1398" height="362" key="GridCell.Tab.0.right/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1580812573875" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580875964430" />
+    <state width="1398" height="531" key="GridCell.Tab.0.right/0.23.1440.804/-1600.23.1600.877@0.23.1440.804" timestamp="1580812498132" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1580701226381" />
+    <state width="1398" height="327" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1580170681427" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1578978242844" />
+    <state width="1398" height="274" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1580011561620" />
+    <state width="1398" height="293" key="GridCell.Tab.1.bottom" timestamp="1580713801101">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577388561222" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1577388561221">
+    <state width="1398" height="293" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580713801101" />
+    <state width="1398" height="293" key="GridCell.Tab.1.center" timestamp="1580713801100">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577388561221" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1577388561222">
+    <state width="1398" height="293" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580713801100" />
+    <state width="1398" height="293" key="GridCell.Tab.1.left" timestamp="1580713801098">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577388561222" />
-    <state x="208" y="23" width="1024" height="804" key="SettingsEditor" timestamp="1577517094607">
+    <state width="1398" height="293" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580713801098" />
+    <state width="1398" height="293" key="GridCell.Tab.1.right" timestamp="1580713801100">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="23" width="1024" height="804" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577517094607" />
-    <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578040865453">
+    <state width="1398" height="293" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580713801100" />
+    <state x="208" y="23" width="1024" height="804" key="SettingsEditor" timestamp="1578140151955">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578040865453" />
+    <state x="208" y="23" width="1024" height="804" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578140151955" />
+    <state x="100" y="123" width="1240" height="604" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578978682245">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="100" y="123" width="1240" height="604" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.808@0.23.1440.808" timestamp="1578978682245" />
+    <state x="397" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1580442514899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580442514899" />
     <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1576141290983" />
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1576682934994" />
     <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1577009550540" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1578977757618" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1578328667881" />
     <state x="424" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577516669710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -226,9 +334,24 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="378" y="85" width="683" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1577524350939" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1577633093655">
+    <state x="194" y="51" key="new project wizard" timestamp="1578234436666">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="194" y="51" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1578234436666" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580624345534">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577633093655" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580624345534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/impQuestions/CustomParseInt.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
